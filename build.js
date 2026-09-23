@@ -1,5 +1,5 @@
 // Build script using esbuild
-const esbuild = require("esbuild");
+import esbuild from "esbuild";
 
 const metadata = `// ==UserScript==
 // @name         AniList Where to Watch
