@@ -19,7 +19,7 @@ The userscript was tested with [Violentmonkey](https://violentmonkey.github.io/)
 
 ```
 npm install
-npm run build
+npm run dev
 ```
 
 ## Building
