@@ -1,4 +1,5 @@
 // Build script using esbuild
+import process from "node:process";
 import esbuild from "esbuild";
 
 const metadata = `// ==UserScript==
